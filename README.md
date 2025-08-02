@@ -66,6 +66,6 @@ We welcome contributions! To contribute:
 4. Push to the branch: `git push origin feature-name`
 5. Open a Pull Request
 
-Feel free to suggest enhancements, report bugs, or request features via [Issues](https://github.com/yourusername/finderkeeper/issues).
+Feel free to suggest enhancements, report bugs, or request features via [Issues](https://github.com/KIMJK7/FinderKeeper).
 
 
